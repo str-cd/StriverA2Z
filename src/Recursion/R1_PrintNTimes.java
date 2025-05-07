@@ -10,7 +10,8 @@ public class R1_PrintNTimes {
         if(n==0){
             return;
         }
-        printNTimes(n-1);
+        printNTimes(n-1); //0
+
         System.out.println("LoL");
     }
 }
