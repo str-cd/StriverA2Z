@@ -1,0 +1,2 @@
+module StriverA2z {
+}
